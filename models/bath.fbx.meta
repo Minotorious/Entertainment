@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="1b6689b8-1efc-47cb-b08d-464638e83d9a">
+	<meta id="952d297f-1bf1-4da8-8400-7ed69cecd63f" type="group" folder="true" name="Materials">
+		<meta id="96a1a617-259f-46ae-9e26-c2b43feddd1d" name="Concrete"/>
+		<meta id="35e30b27-e464-4bf6-9960-70f87cb02da8" name="Water"/>
+	</meta>
+	<meta id="07d7ff58-3d34-407f-9cde-cc2099debf36" type="group" folder="true" name="Meshes">
+		<meta id="636544ba-b93a-415b-b83f-9ec607eb51ad" name="Ground_Frame_Concrete"/>
+		<meta id="a3cfe029-8aa5-4436-a07e-56f20e333ce8" name="Ground_Frame_Water"/>
+		<meta id="ac380159-406f-4705-b52f-c7dc4089bebb" name="Ground_Pillars_Concrete"/>
+		<meta id="db6ace16-a07f-4b25-ad79-3b3cdb1fc3ee" name="Ground_Arch_Pillars_Concrete"/>
+		<meta id="7768dd1c-92b7-4051-ae77-1ab8d234c8c6" name="Ground_Arch_Top_Concrete"/>
+		<meta id="5133b4f9-c1a8-4b40-bce0-d47624f46f89" name="Ground_Stairs_Concrete"/>
+		<meta id="5ea13c8e-581d-4255-b7dd-d02e7cbc1d7a" name="Step_1_Concrete"/>
+	</meta>
+	<meta id="d103fdcb-7a8b-4f0c-948a-d6610e4403bb" name="Prefab">
+		<meta id="5419159c-3e01-4060-8a55-2b99ef76a92a" name="Bath_Group_Part">
+			<meta id="bc28059e-3e2e-41f0-b2cb-2e815de11324" name="Ground_Frame">
+				<meta id="a2ae8606-5200-49d8-a34f-077c0e493a1c" name="Ground_Frame_0"/>
+				<meta id="f6a8597a-c3b3-4b76-938d-ea71ea531a5c" name="Ground_Frame_1"/>
+			</meta>
+			<meta id="68c08baa-5aee-4130-a7ed-10467076a200" name="Ground_Pillars"/>
+			<meta id="de62d92b-a37c-4ade-8594-9b3593ca542a" name="Ground_Arch_Pillars"/>
+			<meta id="aff5cf5a-fe05-4b3d-96b2-78157d04600e" name="Ground_Arch_Top"/>
+			<meta id="35dbaf28-370b-41bf-b2bd-75d4ec9956cf" name="Ground_Stairs"/>
+			<meta id="ce1304ef-c29e-47b7-9a07-1ee027809153" name="PATH_A_0"/>
+			<meta id="844441cf-e03c-470b-9cc2-4dfef134c2ff" name="PATH_A_1"/>
+		</meta>
+		<meta id="0399d50e-dd14-49a1-8de3-d21f04e4d086" name="Bath_Construction_Steps">
+			<meta id="489429d0-91eb-4d32-a0fb-410c30393090" name="Step_0"/>
+			<meta id="e8d4045d-9e2b-445b-bf6a-83dc0cd8c02d" name="Step_1"/>
+			<meta id="e8d11292-1885-4c3e-85c6-ccd3ebd4f4e1" name="Step_2"/>
+			<meta id="b02651ad-06a6-429a-a8f5-a11af14eea30" name="Step_3"/>
+			<meta id="d7198bae-6d77-411a-a039-cf3631cc1069" name="Step_4"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="814826f6b79bef840349369c0104eb29"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Ground_Frame_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Ground_Frame_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Ground_Frame"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Ground_Pillars"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Ground_Arch_Pillars"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Ground_Arch_Top"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Ground_Stairs"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Bath_Group_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Step_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Step_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Step_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Step_3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Step_4"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Bath_Construction_Steps"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="96a1a617-259f-46ae-9e26-c2b43feddd1d"/>
+			<MaterialName value="Concrete"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="35e30b27-e464-4bf6-9960-70f87cb02da8"/>
+			<MaterialName value="Water"/>
+		</Item>
+	</MaterialList>
+</importer>
+

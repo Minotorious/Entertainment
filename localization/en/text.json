@@ -1,0 +1,79 @@
+{
+    "": {
+        "CATEGORY_EXTENSION": "Extension",
+        "CATEGORY_EXTENSION_SING": "extension",
+        "CATEGORY_EXTENSION_PLUR": "extensions",
+        
+        "UNLOCKABLE_ENTERTAINMENT_NAME": "Entertainment",
+
+        "ENTERTAINMENT_NAME": "Entertainment",
+        "ENTERTAINMENT_DESC": "Let your villagers be entertained!",
+
+        "ENTERTAINMENT_GALLOW_KEEP_NAME": "Gallow Keep",
+        "ENTERTAINMENT_GALLOW_KEEP_DESC": "A place for villagers to enjoy public executions",
+        "ENTERTAINMENT_BROTHEL_NAME": "Brothel",
+        "ENTERTAINMENT_BROTHEL_DESC": "A place for villagers to enjoy some companionship",
+        "ENTERTAINMENT_BATHHOUSE_NAME": "Bathhouse",
+        "ENTERTAINMENT_BATHHOUSE_DESC": "A place for villagers to enjoy a hot bath",
+        "ENTERTAINMENT_BARBERSHOP_NAME": "Barber Shop",
+        "ENTERTAINMENT_BARBERSHOP_DESC": "A place for villagers to enjoy getting a haircut",
+        "ENTERTAINMENT_SALOON_NAME": "Saloon",
+        "ENTERTAINMENT_SALOON_DESC": "A place for villagers to enjoy a cold one",
+        "ENTERTAINMENT_HAUNTED_HOUSE_NAME": "Haunted Mansion",
+        "ENTERTAINMENT_HAUNTED_HOUSE_DESC": "Provides Entertainment to Unwary Visitors",
+
+        "ENTERTAINMENT_HAUNTED_HOUSE_ROOT_PART_NAME": "Haunted Mansion Entrance",
+        "ENTERTAINMENT_HAUNTED_HOUSE_ROOT_PART_DESC": "Entrance - The door goes there",
+        "ENTERTAINMENT_HAUNTED_HOUSE_EXTENSION_A_ROOT_PART_NAME": "Haunted Mansion Extension A",
+        "ENTERTAINMENT_HAUNTED_HOUSE_EXTENSION_A_ROOT_PART_DESC": "A big extension",
+        "ENTERTAINMENT_HAUNTED_HOUSE_EXTENSION_B_ROOT_PART_NAME": "Haunted Mansion Extension B",
+        "ENTERTAINMENT_HAUNTED_HOUSE_EXTENSION_B_ROOT_PART_DESC": "A small extension",
+        "ENTERTAINMENT_HAUNTED_HOUSE_DOOR_A_PART_NAME": "Door A",
+        "ENTERTAINMENT_HAUNTED_HOUSE_DOOR_A_PART_DESC": "A door",
+        "ENTERTAINMENT_HAUNTED_HOUSE_BALCONY_A_PART_NAME": "Balcony",
+        "ENTERTAINMENT_HAUNTED_HOUSE_BALCONY_A_PART_DESC": "A balcony",
+        "ENTERTAINMENT_HAUNTED_HOUSE_WINDOWS_A_PART_NAME": "Window A",
+        "ENTERTAINMENT_HAUNTED_HOUSE_WINDOWS_A_PART_DESC": "A long pointy window",
+        "ENTERTAINMENT_HAUNTED_HOUSE_WINDOWS_B_PART_NAME": "Window B",
+        "ENTERTAINMENT_HAUNTED_HOUSE_WINDOWS_B_PART_DESC": "A small pointy window",
+        "ENTERTAINMENT_HAUNTED_HOUSE_WINDOWS_C_PART_NAME": "Window C",
+        "ENTERTAINMENT_HAUNTED_HOUSE_WINDOWS_C_PART_DESC": "A long square window",
+        "ENTERTAINMENT_HAUNTED_HOUSE_TOWER_A_PART_NAME": "Tower A",
+        "ENTERTAINMENT_HAUNTED_HOUSE_TOWER_A_PART_DESC": "A hanging tower extension",
+
+        "ENTERTAINMENT_GALLOW_KEEP_PART_NAME": "Keep",
+        "ENTERTAINMENT_GALLOW_KEEP_PART_DESC": "A keep for public executons",
+        "ENTERTAINMENT_KEEP_EXTENSION_PART_NAME": "Keep Extension",
+        "ENTERTAINMENT_KEEP_EXTENSION_PART_DESC": "An small extension to the keep",
+
+        "ENTERTAINMENT_BROTHEL_PART_NAME": "Brothel",
+        "ENTERTAINMENT_BROTHEL_PART_DESC": "A place for villagers to enjoy some companionship",
+
+        "ENTERTAINMENT_BATHHOUSE_PART_NAME": "Bathhouse",
+        "ENTERTAINMENT_BATHHOUSE_PART_DESC": "A place for villagers to enjoy a hot bath",
+        "ENTERTAINMENT_BATH_PART_NAME": "Bath",
+        "ENTERTAINMENT_BATH_PART_DESC": "This is where it gets hot",
+
+        "ENTERTAINMENT_BARBERSHOP_PART_NAME": "Barber Shop",
+        "ENTERTAINMENT_BARBERSHOP_PART_DESC": "A place for villagers to enjoy getting a haircut",
+
+        "ENTERTAINMENT_SALOON_PART_NAME": "Saloon",
+        "ENTERTAINMENT_SALOON_PART_DESC": "A place for villagers to enjoy a cold one",
+
+        "ENTERTAINMENT_BARBERSHOP_FUNCTION_NAME": "Barber Shop",
+        "ENTERTAINMENT_BARBERSHOP_FUNCTION_DESC": "Barber Shop",
+        "ENTERTAINMENT_BROTHEL_FUNCTION_NAME": "Brothel",
+        "ENTERTAINMENT_BROTHEL_FUNCTION_DESC": "Brothel",
+        "ENTERTAINMENT_BATHHOUSE_FUNCTION_NAME": "Bathhouse",
+        "ENTERTAINMENT_BATHHOUSE_FUNCTION_DESC": "Bathhouse",
+        "ENTERTAINMENT_SALOON_FUNCTION_NAME": "Saloon",
+        "ENTERTAINMENT_SALOON_FUNCTION_DESC": "Saloon",
+        
+        "ENTERTAINMENT_BARBER_JOB_NAME": "Barber",
+        "ENTERTAINMENT_BARBER_JOB_DESC": "Giving the best haircuts",
+        "ENTERTAINMENT_CLEANER_JOB_NAME": "Cleaner",
+        "ENTERTAINMENT_CLEANER_JOB_DESC": "Doing the dirty work",
+        "ENTERTAINMENT_PROCURER_JOB_NAME": "Procurer",
+        "ENTERTAINMENT_PROCURER_JOB_DESC": "Ensuring it all runs smoothly"
+    }
+}

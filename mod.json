@@ -1,0 +1,12 @@
+{
+	"Name": "Entertainment",
+	"Author": "Jeff-norD, der_sebi, firesofhades, Minotorious",
+	"Description": "Satisfy your Villagers' Need for Entertainment!",
+	"Version": "1.8.0",
+    "Dependencies": [
+		{
+			"Id": "76daffe0-725f-4dac-b1b5-de331dfca67a",
+			"Name": "Common Resources"
+		}
+    ]
+}

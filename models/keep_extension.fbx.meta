@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="a6f1684e-e16e-450b-86f0-34c85e4ba820">
+	<meta id="bb8bd6f2-1ae6-422e-b258-06312d79320f" type="group" folder="true" name="Materials">
+		<meta id="fe3f8ffb-e349-4894-9dbb-cbb65bb6888b" name="TilledRoof"/>
+		<meta id="da534149-f8fd-4c1b-9edb-c05dd477cf78" name="WoodBeam"/>
+		<meta id="e8c369aa-9b67-4fb0-aa1e-11ddcad66632" name="Timbering"/>
+		<meta id="c57594a1-ef6c-4cc3-aa65-c4c3785c7620" name="Black"/>
+		<meta id="b753507e-7da9-4c9c-884a-22485a5ba5cf" name="DarkWall"/>
+	</meta>
+	<meta id="8e5378b4-5ce8-43a2-b8ac-756120dcc65a" type="group" folder="true" name="Meshes">
+		<meta id="c64099da-61e2-418f-ac54-79409916866a" name="Step_0_DarkWall"/>
+		<meta id="603e5532-6739-4c63-bee4-858061762701" name="Step_1_WoodBeam"/>
+		<meta id="6a7b8f4d-b819-4357-89d2-60c2e81bdfec" name="Step_2_TilledRoof"/>
+		<meta id="ef1b02d9-5813-4317-9803-0cb103df94ea" name="Step_2_WoodBeam"/>
+		<meta id="66811863-25f3-4e19-a894-e31cd530347a" name="Step_2_Timbering"/>
+		<meta id="85d7603d-2fc4-489f-b9d9-827280a3fd03" name="Keep_Extension_WoodBeam"/>
+		<meta id="c15f0107-3c65-42e6-886c-65d794040a18" name="Keep_Extension_Black"/>
+		<meta id="86bc09b8-656e-44a1-a66a-848bc26f3628" name="Keep_Extension_DarkWall"/>
+	</meta>
+	<meta id="be656c70-2884-44ec-ab02-14d9d15e4f46" name="Prefab">
+		<meta id="84938de9-bd2c-4109-a75f-aba41be76687" name="Keep_Extension_Construction_Steps">
+			<meta id="6e82da11-0e06-4304-8e56-ab08d67b3932" name="Step_0"/>
+			<meta id="b15ff06f-8372-4198-8355-1c744112c2e6" name="Step_1"/>
+			<meta id="77ca53dc-0645-4322-8142-b147402de8b2" name="Step_2">
+				<meta id="e389f72b-798e-4b86-8c4a-059a1a702f78" name="Step_2_0"/>
+				<meta id="7ff74f19-3e9e-404a-aa8d-ff77c5b4d515" name="Step_2_1"/>
+				<meta id="f04a412e-25fd-4e27-a1c4-904254d80ae0" name="Step_2_2"/>
+			</meta>
+		</meta>
+		<meta id="8292b268-62d7-4095-bebe-49af3bebe6c3" name="Keep_Extension_Group_Part">
+			<meta id="2715d2f5-f419-4dfe-ac50-6052d5e2633e" name="Keep_Extension">
+				<meta id="7e343ab2-1a70-4844-ad81-cb80d44bc0b4" name="Keep_Extension_0"/>
+				<meta id="05c0841b-50a9-4493-a365-712fd4da71de" name="Keep_Extension_1"/>
+				<meta id="2c11aa06-edcd-49f6-8c9c-e940f57d3b29" name="Keep_Extension_2"/>
+				<meta id="0edee51a-70c9-477d-93b7-ec1f7e81f788" name="Keep_Extension_3"/>
+				<meta id="9ef34acd-bfb3-4285-9517-6f73c15f36d8" name="Keep_Extension_4"/>
+			</meta>
+			<meta id="e9414ba2-75ef-4cc5-b590-3dfe2c1018ef" name="Attach_Major_000"/>
+			<meta id="3ccbfd92-23e5-48a9-b5a6-c26996960642" name="PATH_A_0"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="263d9c0cd8e525ac5e6ed9baa68c7fcc"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Step_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Step_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_2_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_2_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_2_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Step_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Keep_Extension_Construction_Steps"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Keep_Extension_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Keep_Extension_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Keep_Extension_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Keep_Extension_3"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Keep_Extension_4"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Keep_Extension"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major_000"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_0"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Keep_Extension_Group_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c57594a1-ef6c-4cc3-aa65-c4c3785c7620"/>
+			<MaterialName value="Black"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b753507e-7da9-4c9c-884a-22485a5ba5cf"/>
+			<MaterialName value="DarkWall"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="fe3f8ffb-e349-4894-9dbb-cbb65bb6888b"/>
+			<MaterialName value="TilledRoof"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e8c369aa-9b67-4fb0-aa1e-11ddcad66632"/>
+			<MaterialName value="Timbering"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="da534149-f8fd-4c1b-9edb-c05dd477cf78"/>
+			<MaterialName value="WoodBeam"/>
+		</Item>
+	</MaterialList>
+</importer>
+

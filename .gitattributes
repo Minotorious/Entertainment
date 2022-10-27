@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.psd export-ignore
+*.ai export-ignore
+.gitignore export-ignore
+.gitattributes export-ignore
+ModPreviewImage_Entertainment.png export-ignore
