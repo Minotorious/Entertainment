@@ -14,7 +14,7 @@ entertainment:registerEnumValue("BUILDING_PART_TYPE", "EXTENSION")
 
 --[[----------------------------- VILLAGER NEEDS ------------------------------]]--
 
-if not foundation.isModLoaded("9475b42e-f880-4787-9b07-bec720fc90b6") then -- Street Performers
+if not foundation.isModLoaded("9b491b45-6cf6-471a-aa7f-fdbed6c6275a") then -- Street Performers
     entertainment:overrideAsset({
         Id = "COMMONER",
         AssetVillagerNeedList = {
